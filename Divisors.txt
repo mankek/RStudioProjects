@@ -1,0 +1,7 @@
+Divisors of  15 :  3 5 
+Divisors of  24 :  2 3 4 6 8 12 
+13  is a prime
+Divisors of  99 :  3 9 11 33 
+Divisors of  46 :  2 23 
+73  is a prime
+Divisors of  12 :  2 3 4 6 
