@@ -31,8 +31,11 @@ for (i in 1:length(split_seq)){
             index2<-index2+1
           }
           break
+          
+          
         }else{
           next
+          
         }
       }
     }
